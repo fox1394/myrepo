@@ -1,2 +1,5 @@
 Added another file.
+<<<<<<< HEAD
 Hot fix
+=======
+>>>>>>> iss53
