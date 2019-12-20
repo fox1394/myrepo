@@ -1,2 +1,3 @@
 Added another file.
 Hot fix
+Line added from GitHub.
